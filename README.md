@@ -2,6 +2,8 @@
 
 This document provides a detailed explanation of the histograms used in the data analysis of **pp LHC23zzh pass4 (LHC23g3) MC anchored data**, including their classification into **Reconstructed Histograms** and **Simulated (MC Truth) Histograms**.
 
+![Logo](TPC.png)
+
 ## Dataset Information
 Analysis performed on:
 - **AO2D file** from 2024 MC production
